@@ -1,0 +1,1 @@
+so bessically its normal table with crud function useing react js ant design
